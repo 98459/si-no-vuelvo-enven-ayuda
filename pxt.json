@@ -1,5 +1,6 @@
 {
     "name": "si no vuelvo envíen ayuda",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
